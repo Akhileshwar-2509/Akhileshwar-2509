@@ -29,7 +29,7 @@
 
 <h2 align="center">🛠 Tools & Technologies</h2>
 
-- **Programming Languages:** Python, C++, JavaScript
+- **Programming Languages:** Python, C++, JavaScript, Java
 - **Web Development:** Flask, HTML, CSS, JavaScript
 - **Data Visualization:** Power BI, Tableau
 - **Machine Learning:** TensorFlow, Scikit-learn
