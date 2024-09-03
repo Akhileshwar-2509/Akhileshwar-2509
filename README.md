@@ -53,14 +53,6 @@
 - **[Netflix Dashboard](https://github.com/akhileshwar-2509/Netflix-Dashboard):** Created an interactive dashboard using Tableau to visualize Netflix data.
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akhileshwar-anumula-8a2760252/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:akhileshwaranumula2509@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
 
