@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Akhileshwar!
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
-
 I am currently pursuing my 3rd year BTech in Computer Science and Engineering (Data Science) at VNR VJIET. I am passionate about Python programming and data science, and I have a strong foundation in developing web applications using Flask. My expertise extends to HTML, CSS, and JavaScript, and I excel in data visualization with Power BI and Tableau.
 
 ## 🛠️ Skills & Technologies
@@ -16,23 +14,36 @@ I am currently pursuing my 3rd year BTech in Computer Science and Engineering (D
 
 ## 🏆 Projects
 
-### Music Recommendation System
-![Music Recommendation System](https://via.placeholder.com/400x200.png?text=Music+Recommendation+System)
+- [Music Recommendation System](#music-recommendation-system)
+- [Chatbot](#chatbot)
+- [Time Series Analysis](#time-series-analysis)
+- [Demand and Supply Analysis](#demand-and-supply-analysis)
+- [Credit Scoring and Segmentation](#credit-scoring-and-segmentation)
+- [Personalized Learning Paths](#personalized-learning-paths)
 
-### Chatbot
-![Chatbot](https://via.placeholder.com/400x200.png?text=Chatbot)
+---
 
-### Time Series Analysis
-![Time Series Analysis](https://via.placeholder.com/400x200.png?text=Time+Series+Analysis)
+### 🗂️ Project Overview
 
-### Demand and Supply Analysis
-![Demand and Supply Analysis](https://via.placeholder.com/400x200.png?text=Demand+and+Supply+Analysis)
+#### [Music Recommendation System](#)
+A dynamic recommendation engine that leverages the Spotify API to suggest music based on user preferences.
 
-### Credit Scoring and Segmentation
-![Credit Scoring and Segmentation](https://via.placeholder.com/400x200.png?text=Credit+Scoring+and+Segmentation)
+#### [Chatbot](#)
+An interactive chatbot developed using Python and Flask to handle user queries and provide responses.
 
-### Personalized Learning Paths
-![Personalized Learning Paths](https://via.placeholder.com/400x200.png?text=Personalized+Learning+Paths)
+#### [Time Series Analysis](#)
+An analysis of time series data to forecast future trends and patterns using Python libraries.
+
+#### [Demand and Supply Analysis](#)
+A comprehensive study on demand and supply metrics to optimize business strategies.
+
+#### [Credit Scoring and Segmentation](#)
+A credit scoring system that segments customers into different categories based on their credit scores.
+
+#### [Personalized Learning Paths](#)
+A system that allows instructors and students to create and track personalized learning paths, including course management and progress tracking.
+
+---
 
 ## 🎓 Certifications
 
