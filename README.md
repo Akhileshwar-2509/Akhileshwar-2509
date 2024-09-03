@@ -21,36 +21,6 @@ I am currently pursuing my 3rd year BTech in Computer Science and Engineering (D
 - [Credit Scoring and Segmentation](#credit-scoring-and-segmentation)
 - [Personalized Learning Paths](#personalized-learning-paths)
 
----
-
-### 🗂️ Project Overview
-
-#### [Music Recommendation System](#)
-A dynamic recommendation engine that leverages the Spotify API to suggest music based on user preferences.
-
-#### [Chatbot](#)
-An interactive chatbot developed using Python and Flask to handle user queries and provide responses.
-
-#### [Time Series Analysis](#)
-An analysis of time series data to forecast future trends and patterns using Python libraries.
-
-#### [Demand and Supply Analysis](#)
-A comprehensive study on demand and supply metrics to optimize business strategies.
-
-#### [Credit Scoring and Segmentation](#)
-A credit scoring system that segments customers into different categories based on their credit scores.
-
-#### [Personalized Learning Paths](#)
-A system that allows instructors and students to create and track personalized learning paths, including course management and progress tracking.
-
----
-
-## 🎓 Certifications
-
-- **Introduction to Android Development** by Meta (Coursera)
-- **Artificial Intelligence Fundamentals** by Great Learning
-- **Introduction to Data Science** by Infosys Springboard
-- **Introduction to Machine Learning** by Kaggle
 
 ## 🌐 Connect with Me
 
