@@ -9,8 +9,8 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhileshwar-2509&show_icons=true&theme=radical" alt="akhileshwar-2509" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshwar-2509&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhileshwar-2509&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileshwar-2509&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 ---
 
